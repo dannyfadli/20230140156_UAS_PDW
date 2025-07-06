@@ -12,5 +12,3 @@
 ![alt teks]([path ke img)](https://github.com/dannyfadli/20230140156_UAS_PDW/blob/main/Repo-ss/Cuplikan%20layar%202025-07-06%20215609.png)
 ![alt teks]([path ke img)](https://github.com/dannyfadli/20230140156_UAS_PDW/blob/main/Repo-ss/Cuplikan%20layar%202025-07-06%20215615.png)
 
-
-teks
